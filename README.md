@@ -2,12 +2,12 @@
 A specialized PHP CLI tool for high-efficiency text compression and secure data restoration.
 
 # Features ✨
-*📄 Smart Compression: Optimized specifically for .txt files using Zlib (level 9).
-*🔄 Reverse Mode: A unique binary reversal step for custom data formatting.
-*🔐 Base64 Encoding: Ensures compressed data is safe for storage and transfer.
-*📈 Efficiency Tracking: Real-time calculation of space saved (percentage).
-*🛡️ Integrity Checks: Built-in validation for file paths and formats.
-*📂 Automatic Restoration: Seamlessly brings your data back to its original state.
+* 📄 Smart Compression: Optimized specifically for .txt files using Zlib (level 9).
+* 🔄 Reverse Mode: A unique binary reversal step for custom data formatting.
+* 🔐 Base64 Encoding: Ensures compressed data is safe for storage and transfer.
+* 📈 Efficiency Tracking: Real-time calculation of space saved (percentage).
+* 🛡️ Integrity Checks: Built-in validation for file paths and formats.
+* 📂 Automatic Restoration: Seamlessly brings your data back to its original state.
 
 # Technologies 🛠
 * PHP
